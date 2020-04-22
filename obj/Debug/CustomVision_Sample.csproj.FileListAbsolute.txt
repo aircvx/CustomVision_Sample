@@ -1,0 +1,17 @@
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\CustomVision_Sample.exe.config
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\CustomVision_Sample.exe
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\CustomVision_Sample.pdb
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.dll
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\Newtonsoft.Json.dll
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.xml
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.xml
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\bin\Debug\Newtonsoft.Json.xml
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\obj\Debug\CustomVision_Sample.csprojAssemblyReference.cache
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\obj\Debug\CustomVision_Sample.csproj.CopyComplete
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\obj\Debug\CustomVision_Sample.exe
+C:\Programs\C#\CustomVision_Sample\CustomVision_Sample\obj\Debug\CustomVision_Sample.pdb
